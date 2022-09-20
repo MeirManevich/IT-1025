@@ -11,10 +11,9 @@
   
 * A Solid State Drive (SSD) is faster and more reliable than a Hand Disk Drive. The SSD has no moving parts, contrasting with the HDD's spinning platter and moving head. The lack of moving parts reduced the chances of hardware malfunction. To read and write data, the SSD uses a similar system to Random Access Memory, reading and writing data on memory and instantly accessing whatever the user needs when requests are made. When requesting data from an HDD, the platter needs to spin to correct position and then time the spinning with contact with the head. All this takes time, which results in slower speed for the user.
   
-* Why does increasing RAM make the computer run faster?
-  * More space to have tasks running simultaneusly. Less RAM means background tasks will be shut down and it will take longer to go back to them because they'll have to restart, and data-heavy tasks will be sluggish because the computer cannot load all the data at once to work with, thus slowing down your use of the computer. More RAM means no waiting time when jumping between apps or working with a lot of data because it can all be handled at the same time.
+* The hard drive of a computer's read and write speeds are typically not fast enough to run the programs from, so the computer needs a memory bank from which to communicate with back and forth at lightning speeds. Random Access Memory allows the computer to load data onto it temporarily from the hard drive to manipulate in real-time. If you use up all your RAM, data will need to be transferred back and forth from the hard drive to continue using the computer and this will create a bottleneck in the overall performance. So the more RAM a computer has installed, the faster the computer can manage many files and programs at once and continue to run smoothly.
   
-  * The difference between 64 and 32 bit data paths.
+* Some kinds of RAM will be able to perform faster than others. The difference between RAM that uses a 32 bit path and ones that use a 64 bit path is quite significant. 32 bit path RAM can only send out 32 bits per cycle, while the faster RAM can send out 64 bits per cycle. This increased output leads to much faster performance.
   
   
   
