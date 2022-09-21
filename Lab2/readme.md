@@ -29,7 +29,7 @@ In this lab you will go back to the basics. You will explore various parts of th
 
 * At the heart of computer hardware are little circuits carrying current, and to perform calculations, they use boolean logic gates. Truth tables can be quite handy to demonstrate the possible outcomes of logic gates. A truth table will list all the possible combinations of inputs for a particular gate and alongside those inputs, the outputs that will result from those combinations. For example, an NAND gate can have two or more inputs and it will always return a true outcome until all the connected inputs are true. In contrast to this, the AND gate will always return false until all its inputs are true.
 
-### IEEE: Ethically Aligned Design ###
+# IEEE: Ethically Aligned Design #
 
 * The IEEE is an organization focused on promoting technological innovation and for the benefit of humanity. Their contributions in this volatile field are critical to its development. Regulating the ethics surrounding the creation of new technologies keeps the users safe from being taken advantage of and their data, private.
 
