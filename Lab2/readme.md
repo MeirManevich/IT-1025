@@ -42,4 +42,4 @@
 
 ***
 # Conclusion #
-* text
+* (placeholder text) This lab has been a new and enjoyable experience. I have started to familiarize myself with the GitHub workflow, markdown language is enjoyable and easy to use, and learning about the history and rapid ascent of information systems was enriching. I look forward to everything else we will learn in this course!
