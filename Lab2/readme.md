@@ -1,5 +1,5 @@
 # Executive Summary #
-* text
+* (placeholder text) This lab is an important first step into the world of Information Technology. The lab provies an introduction to utilizing GitHub in your workflow, an important tool for your success as a programmer. You will learn about the history of information systems and be exposed to markdown launguage. This lab will help you prepare for your journey in the vast world of IT.
 ***
 
 
