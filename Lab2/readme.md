@@ -37,9 +37,18 @@
 # Data Representation #
 
 ### Numeric Conversions ###
+* Decimal numbers are what we are most familiar with. The system is base 10, meaning every additional number to the left represents an increase by powers of ten. so 235 would mean two single digits, 3 10s, and 5 hundreds.
 
-### Hexidecimal Color Representation ###
 
+* Binary is a similar system, but it uses a base of 2, so you'll add another number to the left for every power of two. Computers typically read bytes of information which is a set of eight bits which contain binary values.
+
+
+* Hexadecimal is an extension of the decimal system, expanding the base to 16. Hexadecimal uses the first 6 letters of the alphabet to represent 10-15. Because of the increased power, fewer hexadecimal numbers can represent larger quantities
+
+### Hexadecimal Color Representation ###
+* The hexadecimal color #ab00ff is close to pure violet. The six digits are split into three categories for the intensity of red, green, and blue. The red value is 171, because a, representing 10, is in the 16s place, giving it a value of 160, and the b in the 1s place adds 11, totaling 171. There is no green, represented by the 00, and the ff represents the maximum intensity for blue, equaling 255, because f, being 15, in the 16s place, equals 240, plus an additional 15 from the 1s place.
+
+* This vivid shade of purple should be used in moderation when building web sites. Setting this as the primary color of your text on a white background might make it very difficult to read anything. You have to think about how much of it you use, the colors that complement and contrast with it, where you implement it.
 ***
 # Conclusion #
 * (placeholder text) This lab has been a new and enjoyable experience. I have started to familiarize myself with the GitHub workflow, markdown language is enjoyable and easy to use, and learning about the history and rapid ascent of information systems was enriching. I look forward to everything else we will learn in this course!
