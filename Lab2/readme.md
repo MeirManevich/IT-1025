@@ -1,5 +1,5 @@
 # Executive Summary #
-* (placeholder text) This lab is an important first step into the world of Information Technology. The lab provies an introduction to utilizing GitHub in your workflow, an important tool for your success as a programmer. You will learn about the history of information systems and be exposed to markdown launguage. This lab will help you prepare for your journey in the vast world of IT.
+In this lab you will go back to the basics. You will explore various parts of the hardware that run the code that you write, and how those devices all communicate and work with each other. You'll be introduced to the basics of how computers handle and manipulate data, and familiarize yourself with the numeric system upon which all of computing is built. And you'll be introduced to the ethics of creating technology and the importance of designing products morally. This fundamental understanding of computers will be critical to everything you do later.
 ***
 
 
@@ -51,4 +51,4 @@
 * This vivid shade of purple should be used in moderation when building web sites. Setting this as the primary color of your text on a white background might make it very difficult to read anything. You have to think about how much of it you use, the colors that complement and contrast with it, where you implement it.
 ***
 # Conclusion #
-* (placeholder text) This lab has been a new and enjoyable experience. I have started to familiarize myself with the GitHub workflow, markdown language is enjoyable and easy to use, and learning about the history and rapid ascent of information systems was enriching. I look forward to everything else we will learn in this course!
+This lab was an eye-opener. I loved learning about the physical components that computers are made up of. I found it a bit surprising how logical it all seems once the intricate parts are looked at individually. I found it satisfying to finally learn what bits and bytes are and how the binary system makes any sense. I am looking forward to the next section where we will start learning about software!
