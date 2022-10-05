@@ -21,6 +21,13 @@ Python is one of the most widely used and supported coding languages available. 
 
 In addition to that, Python is an interpreted language, making it far easier to run. Typically, to use a program, the user needs to run the code through a compiler program to convert the code into binary for the computer to execute. Operating systems by default come with compilers to convert programs, but they don’t always know how to convert the code. Being an interpreted language, Python compiles the programmer’s code internally before running it, so the user isn’t reliant on the Operating System they’re using. This makes Python hassle-free when it comes to portability, ensuring the code runs as intended, no matter what device is being used.
 ***
+# Career Exploration #
+### College Central ###
+### Careers in IT ###
+### Certifications ###
+### Certificates ###
+### Co-ops / Internships ###
+### Industry Associations / Student Organizations ###
 
 # Conclusion #
 ***
