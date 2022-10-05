@@ -1,4 +1,8 @@
-# Executive Summary #
+***
+# Executive Summaries #
+
+## Software ##
+## Python ##
 ***
 # Software #
 
@@ -13,3 +17,7 @@
 
 ### ERP ###
   * For large companies, like Microsoft and Apple, or even smaller businesses, an Enterprise Resource Planning program is essential to their success. To keep track of many different employee schedules and various financial transactions all happening at once, an ERP provides a company with one piece of software to maintain it all. An ERP is based on a database which is then used for all the companies needs, adding and changing information within already-existing categories instead of creating overlapping ones. With the advantage of a central database, an ERP can offer additional functionality to meet the company's needs, connecting it all to the main database. Using an ERP to merge the many needs of a company can use the available resources more efficiently, saving money and time as a result.
+
+***
+# Conclusion #
+***
