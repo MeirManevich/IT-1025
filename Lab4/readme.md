@@ -1,4 +1,5 @@
 # Executive Summary #
+In this unit you will program your first program! In this lab you will explore the basics of Python programming, and by doing so, be exposed to some of the fundamental ideas of programming, like variables, strings, and functions. You’ll also get to create your own logo and learn about different images and file types and which ones are useful for software development.
 ***
 # Python IDLE #
 
