@@ -24,3 +24,19 @@ The Internet Corporation for Assigned Names and Numbers (ICANN) is a global nonp
 ### Securing Your Web Browser ###
 
   * Securing your browser is important to maintain control of your computer. Connecting to the internet means allowing the possibility of outside forces gaining access or even control of your computer so it is worth your time to secure your browser, your portal to the internet. One such risk is disguised links, where there is a button that says you should click it, but it is a phishing link and immediately downloads viruses onto your computer. This can be prevented by not allowing any page to download anything automatically.
+
+# Internet Programming #
+
+### World Wide Web Consortium ###
+
+  * Tim Berner-Lee invented the World Wide Web in 1989, and he was the one who coined the term. He wrote the first version of Hypertext Markup Language (HTML) and the browser. To help improve the World Wide Web, he founded the W3C, an organization responsible for developing critical tools and software and specifications for furthering the development of the Web.
+
+  * One of the most important developed standards is the Scalable Vector Graphics (SVG) standard. SVG allows the user an incredibly high level of customizability without losing any quality, as there isn't an image which is manipulated, rather, a set of parameters for each computer to regenerate the image from scratch. This allows the scalability of the images, allowing them to be any size without losing quality.
+
+### HTML5 and CSS ###
+
+   * To create my webpage, I used HTML and CSS. HTML allowed me to lay out the very basics of the page, the foundations and the structural skeleton. Using CSS, I was able to then style the webpage a bit, using colors and borders to give the page my own personal flair. I took a fairly simple approach and didn’t stray far from the instructions, ensuring I would have success in my programming.
+
+### HTML and XML ###
+
+  * Although similar in appearance, XML is not an alternative to HTML. XML simply stores information in tags and containers, but it does not have the capability to display any of it. HTML or another program is required to display the information stored in an XML file.
