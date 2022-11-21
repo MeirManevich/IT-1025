@@ -1,4 +1,7 @@
 # Executive Summary #
+
+After learning all about the basics of the internet, it is now time to explore how its pages work! In this Unit you will learn about IP addresses and how webpages have security, you will program your first web page and add some style to it with color and formatting, and you will learn about URLs to get a better understanding of file paths.
+
 ***
 # Internet Architecture #
 
@@ -40,3 +43,29 @@ The Internet Corporation for Assigned Names and Numbers (ICANN) is a global nonp
 ### HTML and XML ###
 
   * Although similar in appearance, XML is not an alternative to HTML. XML simply stores information in tags and containers, but it does not have the capability to display any of it. HTML or another program is required to display the information stored in an XML file.
+
+# Components of a URL #
+
+| Term        | Example     | Explanation |
+| ----------- | ----------- | ----------- |
+| Scheme      | https       | Type of address	|
+| Domain | www.amazon.com     | Specific address of a page|
+| Top Level domain | .edu    | The organization that the site belongs to |
+| Default page | No file path provided| The page that displayed when no file path is included in the URL |
+| Parameters  | Result of search | Critical information pertaining to the user’s search|
+| Anchor  | Specific location on a page | Opens page at a specific point, useful for long pages|
+
+  * https://www.youtube.com/watch?v=4PKr_BVo4hg is an example with these elements:
+    * https is the scheme
+    * www.youtube.com/watch is the domain
+    * The top level domain is .com
+    * The default page would open the youtube homepage with personalized results for each user.
+    * The parameters are ?v=4PKr_BVo4hg
+    * This page doesn’t have an anchor, but if it did, it may look like: #video_desciption
+
+***
+
+# Conclusion #
+
+I found this Unit enjoyable, the best part being programming the webpage, consistent with my previous enjoyment of programming sections in this course. I found the information about the IP addresses interesting and felt secure learning about the protocols in place to protect me when using the internet. I don’t know if I will continue to pursue website programming, but I can see the appeal!
+
