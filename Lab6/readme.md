@@ -16,6 +16,9 @@ The Internet Corporation for Assigned Names and Numbers (ICANN) is a global nonp
 
   * Layered protocol stacks provide future-proofing for changes made to the system. Instead of the protocol getting upset at the changes made and refusing to carry out the requests, layering allows each layer to act independently of each other, so the changes don’t affect the overall result and from the protocol’s perspective, nothing has changed. In practical implementation, the TCP/IP protocol uses a 4-layer stack system to ensure smooth running.
 
-# Internet Security #
+### Internet Security ###
 
+  * Hypertext Transfer Protocol (HTTP) is the most widely used protocol on the internet, used to transfer plain text between computers. Nearly every website uses HTTP to display their webpages, and since everyone uses it, the client-server model is held up well, allowing all computers to understand each other, to send and view each other's webpages.
+  * SSL and TSL are both security protocols used with HTTP to secure the information being transferred when it is flowing publicly along the internet. They both use public key encryption to render information into incomprehensible strings of characters that only the receiving computer can decipher, thus securing the information. Secure websites are denoted with an “s” as in “HTTPS.”
 
+  * Securing your browser is important to maintain control of your computer. Connecting to the internet means allowing the possibility of outside forces gaining access or even control of your computer so it is worth your time to secure your browser, your portal to the internet. One such risk is disguised links, where there is a button that says you should click it, but it is a phishing link and immediately downloads viruses onto your computer. This can be prevented by not allowing any page to download anything automatically.
