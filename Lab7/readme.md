@@ -9,6 +9,6 @@ text
 
   * When compressing the .svg file, the compressed folder was almost 4 times smaller than the original file. This property of compression may not happen when dealing with .jpg images, because those files are already compressed.
 
-# text #
+# Object Oriented Programming (OOP) #
 
   * text
