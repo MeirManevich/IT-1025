@@ -1,6 +1,6 @@
 # Executive Summary #
 
-In this Unit, you will take a break from the exciting realm of programming and creation, to focus on an important foundational topic which should always be at the forefront of any project you work on. Security. You will begin by learning how networks are designed and how they communicate with each other, and then move on to securing the information moving across those networks, to protect your data from prying eyes. This is essential to keeping your users safe.
+To finish off this course, you will learn about data and databases, including a peek into SQL coding for database management, and you will read about the ethics and laws of data and how regulation has been trying to catch up with the data boom of the 21st century. Hopefully, this unit will leave you with an impression of your responsibilities as a software engineer, to not abuse these marvelous tools, but to use them for good, to help people and not to steal their data.
 
 ***
 
@@ -72,5 +72,4 @@ In this Unit, you will take a break from the exciting realm of programming and c
 ***
 # Conclusion #
 
-As a lover of creativity and visuals, I found using Lucidchart to be my favorite part of this Unit. I recognize how important cybersecurity is, but it doesn’t particularly appeal to me. But using the Khan Academy interactive ciphers was pretty cool. I can see how people can enjoy sending each other encrypted messages and decrypting them by hand for fun. I am glad that there are other people who are interested though, so I can be safe and secure when I am using the internet. I am really looking forward to the next Units, to getting back into programming. I can see we will touch on HTML and some more Python, both of which excite me!
-
+What an interesting way to finish this course! I found all the data talk a bit heavy and hard to understand, but I understood its importance and I am happy I learned it. The SQL coding was cool though, seeing how powerful the language is, to be able to execute just a few lines of code to get curated useful sections of databases. And of course, the legal and ethical issues, while not necessarily fun, I thought were a fitting way to end this course, to impress upon us the importance of the responsibilities we have as software engineers. I think this course was a nice introduction to all things digital, and I am excited to continue this journey into the next IT course.
