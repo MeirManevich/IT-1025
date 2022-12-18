@@ -18,7 +18,10 @@ In this Unit, you will take a break from the exciting realm of programming and c
 
   * Database
 
-    * 
+    * When designing a database for a company with customers and orders, I would assign the order number as the primary key to relate the customers and orders.
+    * This primary key of order numbers would connect the information about each order to the information about each customer, being that it represents each individual order from each customer.
+    * A foreign key in the orders table could be the key to the different kinds of orders that are possible and it would relate to the primary key to connect that information about the customer.
+    * The order table will have a date field to allow filtering by each day. This prevents confusion, because customers will likely order similar products every day. It also allows the primary key to reset every day for the order numbers with no interference.
 
 ### Big Data ###
 
@@ -31,7 +34,15 @@ In this Unit, you will take a break from the exciting realm of programming and c
 
   * Various technologies have driven the increase of the need for big data, each building on each other. Streaming has driven the need for user data like demographics, so advertisers can effectively advertise their products to the right audiences. Search engines like Google have driven the need for all sorts of obscure datasets like time windows of browser usage, and probability of news scrolling and retention rate for layouts of search bars. All these data points provide Google with information on how to further optimize the internet searching experience for their users, giving them an edge over smaller browsers. Those data on retention become even more in-demand in video services like Youtube and TikTok, where audience retention is the key to making money. The longer the companies have eyeballs, the more ads they show, and the more money they make, so retention data is immensely useful, and ends of shaping what kind of videos are created in the first place
 
+# Structured Query Language #
 
+  * The Relational Database Management System (RDBMS) is the underlying architecture that orders databases controlled by SQL. AS evident in that statement, SQL is a programming language for interacting and managing the data in a RDBMS. SQL was created to have an easier way to access and manipulate data within a database, to expedite the process for businesses and individuals.
+
+  * In the Northwind database tables, the two tables, “Suppliers” and “Products” are related by the products between them, the “Suppliers” table providing information on where the products in the “Products” table are coming from. The primary key is the SupplierID, which is then fed into the “Products” table to be assigned to different products to create the foreign ProductID key for each product, containing the supplier information. These two tables give a picture of where the products are coming from and the different properties of the suppliers and products and how they relate to each other.
+
+# SQL Injections #
+
+  * A SQL Injection is when a user returns malicious SQL code instead of requesting information, like typing SQL code to retrieve all the passwords in a database in response to a prompt for the user’s name. The hacker can use truth statements like 1=1 to run their code under to ensure it continues to parse through the entire database, because 1 is always equal to 1. Using parameters in your SQL code ensures that each line is checked before running it, to protect from the database confusing the SQL input in the user box for a SQL command for the database.
 
 # Ethical and Legal Implications #
 
@@ -43,6 +54,19 @@ In this Unit, you will take a break from the exciting realm of programming and c
   * An Acceptable Use Policy is quite similar to Code of Ethics, in that it is also a list of rules to be followed within a governing entity. It appears to me that the difference between the two is that a code of ethics is a more broad document applying to the standards of digital technology, like the constitution, whereas an acceptable use policy is smaller, pertaining to using a particular service.
 
     * In the Twitter TOS (Terms of Service) document( https://twitter.com/en/tos ), they note that they have the right to deactivate your account at any time if they feel it is necessary. This is why people sometimes get banned from twitter and cannot do anything about it, because they agree to this condition by making an account in the first place. 
+
+###  Intellectual Property ###
+
+  * WIPO is an integral part of the governing ideas in this time of rapid data transfer. They are an organization under the United Nations responsible for managing IP laws, the policies surrounding intellectual property and what is fair use and what is copyright and so on and so forth. Without them, ideas can be stolen and inventors left in the dust for whoever shouts the loudest. WIPO works to protect those working hard to create their own ideas and products from predatory copycats.
+
+  * In the US, a copyright is acquired by simply creating something. One automatically has the rights to their creation by virtue of creating it. But registering for a copyright with the US Copyright Office gives you a registered copyright, which is needed in the event of a legal battle, so it is certainly better to have a registered copyright on your creations.
+    * The SVG image we created earlier is something we created from scratch, and it is our own design, so if it is important to us that it remains ours and that others cannot profit off of it without our permission, registering for a copyright on it would prevent that.
+
+ * If we liked our SVG image so much that we would assign it as the defining logo of a future company we owned, then a trademark would be important. A trademark certifies that my version of the SVG is the true and original one, so people who want to buy goods from me only need to look for my image and they know they have found the correct place. Without a trademark, it may get confusing, with other businesses using my SVG as their logo too.
+
+### Information Collection ###
+
+  * COPPA, FERPA and HIPPA are all different agencies that work to protect the privacy of information of different individuals on the internet. COPPA protects the privacy of children under 13, FERPA concerns students' educational information and when their parents lose access, and HIPPA deals with medical records and protects the privacy of patients.
 
 
 ***
