@@ -1,2 +1,2 @@
 # MeirManevichIT1025
-Oooh look at this, an edited desciption :)
+This is my schoolwork from the Tri-C IT 1025 course from the Fall 2022 Semester. It was a general overview of many IT concepts.
